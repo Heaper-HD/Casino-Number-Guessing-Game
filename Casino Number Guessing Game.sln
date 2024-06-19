@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Casino Number Guessing Game", "Casino Number Guessing Game\Casino Number Guessing Game.vcxproj", "{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}.Debug|x64.ActiveCfg = Debug|x64
+		{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}.Debug|x64.Build.0 = Debug|x64
+		{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}.Debug|x86.Build.0 = Debug|Win32
+		{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}.Release|x64.ActiveCfg = Release|x64
+		{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}.Release|x64.Build.0 = Release|x64
+		{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}.Release|x86.ActiveCfg = Release|Win32
+		{6E6522D8-92F1-4852-AEA5-CBD9C91926A6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B9AFD2-F253-44A1-9A2D-3C6F6FDFAAFD}
+	EndGlobalSection
+EndGlobal
